@@ -1,0 +1,334 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/ContentView.swift",
+      "line": 75,
+      "symbol": "TitleText.buttonBool",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/Scanners.swift",
+      "line": 61,
+      "symbol": "ScanView.unusedBool",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/Scanners.swift",
+      "line": 309,
+      "symbol": "ImagePicker.didFinishScanning",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/Scanners.swift",
+      "line": 310,
+      "symbol": "ImagePicker.didCancelScanning",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/Scanners.swift",
+      "line": 324,
+      "symbol": "ImagePicker.Coordinator.galleryView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/Scanners.swift",
+      "line": 326,
+      "symbol": "ImagePicker.Coordinator.init(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/Scanners.swift",
+      "line": 329,
+      "symbol": "ImagePicker.Coordinator.imagePickerController(_:didFinishPickingMediaWithInfo:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/Scanners.swift",
+      "line": 335,
+      "symbol": "ImagePicker.Coordinator.imagePickerControllerDidCancel(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/Scanners.swift",
+      "line": 338,
+      "symbol": "ImagePicker.Coordinator.imagePickerViewController(_:didFailWithError:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/Scanners.swift",
+      "line": 352,
+      "symbol": "DocumentScanner.didFinishScanning",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/Scanners.swift",
+      "line": 353,
+      "symbol": "DocumentScanner.didCancelScanning",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/Scanners.swift",
+      "line": 365,
+      "symbol": "DocumentScanner.Coordinator.scannerView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/Scanners.swift",
+      "line": 367,
+      "symbol": "DocumentScanner.Coordinator.init(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/Scanners.swift",
+      "line": 370,
+      "symbol": "DocumentScanner.Coordinator.documentCameraViewController(_:didFinishWith:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/Scanners.swift",
+      "line": 378,
+      "symbol": "DocumentScanner.Coordinator.documentCameraViewControllerDidCancel(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/Scanners.swift",
+      "line": 381,
+      "symbol": "DocumentScanner.Coordinator.documentCameraViewController(_:didFailWithError:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/Settings.swift",
+      "line": 55,
+      "symbol": "DarkModeButton",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/Settings.swift",
+      "line": 99,
+      "symbol": "ShadowModeButton",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/Settings.swift",
+      "line": 140,
+      "symbol": "ScanDefaultSelector",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/Settings.swift",
+      "line": 213,
+      "symbol": "AccentColorSelector",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/Settings.swift",
+      "line": 281,
+      "symbol": "DeveloperSettings",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/UserSettings.swift",
+      "line": 12,
+      "symbol": "ScanDefault",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/UserSettings.swift",
+      "line": 13,
+      "symbol": "ScanDefault.choose",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/UserSettings.swift",
+      "line": 14,
+      "symbol": "ScanDefault.camera",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/UserSettings.swift",
+      "line": 15,
+      "symbol": "ScanDefault.gallery",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/UtilityFunctions.swift",
+      "line": 128,
+      "symbol": "Loading.rotation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/COSC345-Project/UtilityFunctions.swift",
+      "line": 136,
+      "symbol": "Loading.getRotation()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/build/COSC345-Project.build/Release-iphoneos/COSC345-Project.build/DerivedSources/CoreDataGenerated/COSC345_Project/Folder+CoreDataClass.swift",
+      "line": 14,
+      "symbol": "Folder",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/build/COSC345-Project.build/Release-iphoneos/COSC345-Project.build/DerivedSources/CoreDataGenerated/COSC345_Project/Folder+CoreDataClass.swift",
+      "line": 14,
+      "symbol": "Folder",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/build/COSC345-Project.build/Release-iphoneos/COSC345-Project.build/DerivedSources/CoreDataGenerated/COSC345_Project/Folder+CoreDataClass.swift",
+      "line": 29,
+      "symbol": "Folder",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/build/COSC345-Project.build/Release-iphoneos/COSC345-Project.build/DerivedSources/CoreDataGenerated/COSC345_Project/Folder+CoreDataClass.swift",
+      "line": 68,
+      "symbol": "Folder",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/build/COSC345-Project.build/Release-iphoneos/COSC345-Project.build/DerivedSources/CoreDataGenerated/COSC345_Project/Folder+CoreDataProperties.swift",
+      "line": 16,
+      "symbol": "Folder.fetchRequest()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/build/COSC345-Project.build/Release-iphoneos/COSC345-Project.build/DerivedSources/CoreDataGenerated/COSC345_Project/Folder+CoreDataProperties.swift",
+      "line": 20,
+      "symbol": "Folder.color",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/build/COSC345-Project.build/Release-iphoneos/COSC345-Project.build/DerivedSources/CoreDataGenerated/COSC345_Project/Folder+CoreDataProperties.swift",
+      "line": 21,
+      "symbol": "Folder.favorite",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/build/COSC345-Project.build/Release-iphoneos/COSC345-Project.build/DerivedSources/CoreDataGenerated/COSC345_Project/Folder+CoreDataProperties.swift",
+      "line": 22,
+      "symbol": "Folder.icon",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/build/COSC345-Project.build/Release-iphoneos/COSC345-Project.build/DerivedSources/CoreDataGenerated/COSC345_Project/Folder+CoreDataProperties.swift",
+      "line": 24,
+      "symbol": "Folder.receiptCount",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/build/COSC345-Project.build/Release-iphoneos/COSC345-Project.build/DerivedSources/CoreDataGenerated/COSC345_Project/Folder+CoreDataProperties.swift",
+      "line": 25,
+      "symbol": "Folder.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/build/COSC345-Project.build/Release-iphoneos/COSC345-Project.build/DerivedSources/CoreDataGenerated/COSC345_Project/Receipt+CoreDataClass.swift",
+      "line": 14,
+      "symbol": "Receipt",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/build/COSC345-Project.build/Release-iphoneos/COSC345-Project.build/DerivedSources/CoreDataGenerated/COSC345_Project/Receipt+CoreDataClass.swift",
+      "line": 14,
+      "symbol": "Receipt",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/build/COSC345-Project.build/Release-iphoneos/COSC345-Project.build/DerivedSources/CoreDataGenerated/COSC345_Project/Receipt+CoreDataClass.swift",
+      "line": 29,
+      "symbol": "Receipt",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/build/COSC345-Project.build/Release-iphoneos/COSC345-Project.build/DerivedSources/CoreDataGenerated/COSC345_Project/Receipt+CoreDataClass.swift",
+      "line": 259,
+      "symbol": "Receipt",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/build/COSC345-Project.build/Release-iphoneos/COSC345-Project.build/DerivedSources/CoreDataGenerated/COSC345_Project/Receipt+CoreDataProperties.swift",
+      "line": 16,
+      "symbol": "Receipt.fetchRequest()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/build/COSC345-Project.build/Release-iphoneos/COSC345-Project.build/DerivedSources/CoreDataGenerated/COSC345_Project/Receipt+CoreDataProperties.swift",
+      "line": 20,
+      "symbol": "Receipt.body",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/build/COSC345-Project.build/Release-iphoneos/COSC345-Project.build/DerivedSources/CoreDataGenerated/COSC345_Project/Receipt+CoreDataProperties.swift",
+      "line": 21,
+      "symbol": "Receipt.date",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/build/COSC345-Project.build/Release-iphoneos/COSC345-Project.build/DerivedSources/CoreDataGenerated/COSC345_Project/Receipt+CoreDataProperties.swift",
+      "line": 22,
+      "symbol": "Receipt.folder",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/build/COSC345-Project.build/Release-iphoneos/COSC345-Project.build/DerivedSources/CoreDataGenerated/COSC345_Project/Receipt+CoreDataProperties.swift",
+      "line": 24,
+      "symbol": "Receipt.image",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/345-Project/345-Project/build/COSC345-Project.build/Release-iphoneos/COSC345-Project.build/DerivedSources/CoreDataGenerated/COSC345_Project/Receipt+CoreDataProperties.swift",
+      "line": 25,
+      "symbol": "Receipt.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/runner/work/345-Project/345-Project"
+}
